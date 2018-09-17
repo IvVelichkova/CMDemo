@@ -1,0 +1,271 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Caliburn.Micro/4.0.0-alpha.1": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro.Core": "[4.0.0-alpha.1]"
+        },
+        "compile": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "Caliburn.Micro.Core/4.0.0-alpha.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        }
+      },
+      "Caliburn.Micro.Start/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro": "[3.2.0]"
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Caliburn.Micro/4.0.0-alpha.1": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro.Core": "[4.0.0-alpha.1]"
+        },
+        "compile": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "Caliburn.Micro.Core/4.0.0-alpha.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        }
+      },
+      "Caliburn.Micro.Start/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro": "[3.2.0]"
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Caliburn.Micro/4.0.0-alpha.1": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro.Core": "[4.0.0-alpha.1]"
+        },
+        "compile": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "Caliburn.Micro.Core/4.0.0-alpha.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        }
+      },
+      "Caliburn.Micro.Start/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro": "[3.2.0]"
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Caliburn.Micro/4.0.0-alpha.1": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro.Core": "[4.0.0-alpha.1]"
+        },
+        "compile": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Caliburn.Micro.Platform.Core.dll": {},
+          "lib/net45/Caliburn.Micro.Platform.dll": {},
+          "lib/net45/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "Caliburn.Micro.Core/4.0.0-alpha.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Caliburn.Micro.dll": {}
+        }
+      },
+      "Caliburn.Micro.Start/3.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Caliburn.Micro": "[3.2.0]"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caliburn.Micro/4.0.0-alpha.1": {
+      "sha512": "frJ0fbcf7+ihYLfvu+KHDSlpkp9h1SvjonxRZlJEbA7WYy7w4Q5LTkjiSt1JYG82yXl4Mv76lcodp5L3CN+zZg==",
+      "type": "package",
+      "path": "caliburn.micro/4.0.0-alpha.1",
+      "files": [
+        "caliburn.micro.4.0.0-alpha.1.nupkg.sha512",
+        "caliburn.micro.nuspec",
+        "lib/monoandroid403/Caliburn.Micro.Platform.Core.dll",
+        "lib/monoandroid403/Caliburn.Micro.Platform.dll",
+        "lib/net45/Caliburn.Micro.Platform.Core.dll",
+        "lib/net45/Caliburn.Micro.Platform.dll",
+        "lib/net45/System.Windows.Interactivity.dll",
+        "lib/uap10.0/Caliburn.Micro.Platform.Core.dll",
+        "lib/uap10.0/Caliburn.Micro.Platform.dll",
+        "lib/uap10.0/Caliburn.Micro.Platform.pri",
+        "lib/uap10.0/Caliburn.Micro.Platform/Platforms/UWP/Caliburn.Micro.Platform.rd.xml",
+        "lib/xamarin.ios10/Caliburn.Micro.Platform.Core.dll",
+        "lib/xamarin.ios10/Caliburn.Micro.Platform.dll"
+      ]
+    },
+    "Caliburn.Micro.Core/4.0.0-alpha.1": {
+      "sha512": "+yyij2Ve5mrC3UDXxBqRNi0NoN5JwVHUO8rUOMHkWAuEhoQqf+xfXRXqOPiM1RHtngpoOTu+wgamBYloL9GL3A==",
+      "type": "package",
+      "path": "caliburn.micro.core/4.0.0-alpha.1",
+      "files": [
+        "caliburn.micro.core.4.0.0-alpha.1.nupkg.sha512",
+        "caliburn.micro.core.nuspec",
+        "lib/netstandard1.0/Caliburn.Micro.deps.json",
+        "lib/netstandard1.0/Caliburn.Micro.dll"
+      ]
+    },
+    "Caliburn.Micro.Start/3.2.0": {
+      "sha512": "PP1Z5lJDFaCOmGvpeAEw7Ad5f2i+10+5OzSNs+7DiKcswULa0pl2WbnxY3758pE63ZKzxUd+caJB74d7HhR8qw==",
+      "type": "package",
+      "path": "caliburn.micro.start/3.2.0",
+      "files": [
+        "caliburn.micro.start.3.2.0.nupkg.sha512",
+        "caliburn.micro.start.nuspec",
+        "content/net40/AppBootstrapper.cs.pp",
+        "content/net40/IShell.cs.pp",
+        "content/net40/ShellView.xaml.pp",
+        "content/net40/ShellViewModel.cs.pp",
+        "content/net45/AppBootstrapper.cs.pp",
+        "content/net45/IShell.cs.pp",
+        "content/net45/ShellView.xaml.pp",
+        "content/net45/ShellViewModel.cs.pp",
+        "content/sl5/AppBootstrapper.cs.pp",
+        "content/sl5/IShell.cs.pp",
+        "content/sl5/ShellView.xaml.pp",
+        "content/sl5/ShellViewModel.cs.pp",
+        "content/wp8/AppBootstrapper.cs.pp",
+        "content/wp8/MainPageViewModel.cs.pp",
+        "tools/install.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Caliburn.Micro >= 4.0.0-alpha.1",
+      "Caliburn.Micro.Start >= 3.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Iv Velichkova\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Iv Velichkova\\Source\\Repos\\CMDemo\\WPFUI\\WPFUI.csproj",
+      "projectName": "WPFUI",
+      "projectPath": "C:\\Users\\Iv Velichkova\\Source\\Repos\\CMDemo\\WPFUI\\WPFUI.csproj",
+      "packagesPath": "C:\\Users\\Iv Velichkova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Iv Velichkova\\Source\\Repos\\CMDemo\\WPFUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Iv Velichkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://gallery.uipath.com/api/v2": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Caliburn.Micro": {
+            "target": "Package",
+            "version": "[4.0.0-alpha.1, )"
+          },
+          "Caliburn.Micro.Start": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Caliburn.Micro.Start 3.2.0 requires Caliburn.Micro (= 3.2.0) but version Caliburn.Micro 4.0.0-alpha.1 was resolved.",
+      "libraryId": "Caliburn.Micro",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win",
+        ".NETFramework,Version=v4.6.1/win-x64",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}
